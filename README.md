@@ -1,1 +1,2 @@
 # odin-recipes
+In this project, I am going to build a basic recipe website to practice all of the HTML knowledge I have acquired during TOP lessons. The website will consist of a main index page which will have links to a few recipes.
